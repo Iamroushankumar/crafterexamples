@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.catchoom.test"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.CAMERA_EXTENDED" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/craftar_c"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.catchoom.test.SplashScreenActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.catchoom.test.RecognitionFinderActivity" />
+        <activity android:name="com.catchoom.test.RecognitionSingleShotActivity" />
+        <activity android:name="com.catchoom.test.LaunchersActivity" />
+        <activity android:name="com.catchoom.test.HowToActivity" />
+        <activity android:name="com.catchoom.test.WebActivity" />
+        <activity android:name="com.catchoom.test.ScreenSlideActivity" />
+        <activity
+            android:name="com.catchoom.test.HowtoAcvtivity"
+            android:label="@string/title_activity_howto_acvtivity" />
+        <activity
+            android:name="com.catchoom.test.HowtofinderActivity"
+            android:label="@string/title_activity_howtofinder" />
+        <activity
+            android:name="com.catchoom.test.HowtoActivity"
+            android:label="@string/title_activity_howto" />
+        <activity
+            android:name="com.catchoom.test.HowtoOnlyRecognitionActivity"
+            android:label="@string/title_activity_howto_only_recognition" />
+        <activity
+            android:name="com.catchoom.test.HowtoFragmentActivity"
+            android:label="@string/title_activity_howto_fragment" />
+    </application>
+
+</manifest>

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/drawable-xhdpi/launcher_ar_from_craftar.png",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/drawable-xhdpi/launcher_ar_from_craftar.png"
+    },
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/drawable-xhdpi/launcher_ar_programmatically.png",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/drawable-xhdpi/launcher_ar_programmatically.png"
+    },
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/drawable-xhdpi/craftar_c.png",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/drawable-xhdpi/craftar_c.png"
+    },
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/drawable-xhdpi/craftar_logo.png",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/drawable-xhdpi/craftar_logo.png"
+    },
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/drawable-xhdpi/launchers_play.png",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/drawable-xhdpi/launchers_play.png"
+    },
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/drawable-xhdpi/fragment_slide.png",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/drawable-xhdpi/fragment_slide.png"
+    },
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/drawable-xhdpi/launchers_about.png",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/drawable-xhdpi/launchers_about.png"
+    },
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/drawable-xhdpi/splash_screen.png",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/drawable-xhdpi/splash_screen.png"
+    }
+]

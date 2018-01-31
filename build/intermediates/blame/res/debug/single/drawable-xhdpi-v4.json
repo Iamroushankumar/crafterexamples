@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ar_from_craftar.jpg",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/drawable-xhdpi/ar_from_craftar.jpg"
+    },
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/drawable-xhdpi-v4/reco_only.jpg",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/drawable-xhdpi/reco_only.jpg"
+    },
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ar_programmatically.jpg",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/drawable-xhdpi/ar_programmatically.jpg"
+    }
+]

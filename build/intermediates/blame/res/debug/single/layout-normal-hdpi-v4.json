@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/layout-normal-hdpi-v4/launchers_row_finder.xml",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/layout-normal-hdpi/launchers_row_finder.xml"
+    },
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/layout-normal-hdpi-v4/launchers_row_singleshot.xml",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/layout-normal-hdpi/launchers_row_singleshot.xml"
+    },
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/layout-normal-hdpi-v4/activity_launchers.xml",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/layout-normal-hdpi/activity_launchers.xml"
+    },
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/layout-normal-hdpi-v4/launchers_row_fragment.xml",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/layout-normal-hdpi/launchers_row_fragment.xml"
+    }
+]

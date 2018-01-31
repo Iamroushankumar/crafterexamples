@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/layout/launchers_row_fragment.xml",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/layout/launchers_row_fragment.xml"
+    },
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/layout/activity_recognition_only.xml",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/layout/activity_recognition_only.xml"
+    },
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/layout/splash_screen.xml",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/layout/splash_screen.xml"
+    },
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/layout/activity_web.xml",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/layout/activity_web.xml"
+    },
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/layout/activity_howto_fragment.xml",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/layout/activity_howto_fragment.xml"
+    },
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/layout/activity_howto_reco_finder.xml",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/layout/activity_howto_reco_finder.xml"
+    },
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/layout/fragment_camera.xml",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/layout/fragment_camera.xml"
+    },
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/layout/launchers_row_singleshot.xml",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/layout/launchers_row_singleshot.xml"
+    },
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/layout/activity_screen_slide.xml",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/layout/activity_screen_slide.xml"
+    },
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/layout/activity_recognition_finder.xml",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/layout/activity_recognition_finder.xml"
+    },
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/layout/activity_launchers.xml",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/layout/activity_launchers.xml"
+    },
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/layout/launchers_row_finder.xml",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/layout/launchers_row_finder.xml"
+    },
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/layout/fragment_1.xml",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/layout/fragment_1.xml"
+    },
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/layout/activity_howto_recognition_only.xml",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/layout/activity_howto_recognition_only.xml"
+    },
+    {
+        "merged": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/build/intermediates/res/merged/debug/layout/activity_howto.xml",
+        "source": "/home/lue/Desktop/RoushanProject/crafter cloud/Examples/craftarexamples/src/main/res/layout/activity_howto.xml"
+    }
+]
